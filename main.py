@@ -1,2 +1,0 @@
-print("Welcome to storage-allocation-strategies")
-print("This is the main program file.")
